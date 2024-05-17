@@ -1,0 +1,59 @@
+
+.calc {
+    margin: auto;
+    background-color: black;
+    border: 2px solid whitesmoke;
+    width: 23%;
+    height: 550px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px;
+    padding: 0.3%;
+  }
+  .maininput {
+    background-color: black;
+    border: 0.5px solid grey;
+    height: 125px;
+    width: 98.2%;
+    font-size: 80px;
+    color: whitesmoke;
+    font-weight: 00px;
+  }
+  .numbtn,
+  .calbtn,
+  .c,
+  .equal {
+    padding: 25px 30px;
+    border-radius: 50px;
+    font-weight: 500;
+    border-color: transparent;
+    font-size: x-large;
+  }
+ 
+  .numbtn {
+    background-color: gray;
+  }
+  .numbtn:hover {
+    background-color: rgb(169, 169, 169);
+    color: whitesmoke;
+  }
+  .calbtn {
+    background-color: orange;
+  }
+  .calbtn:hover {
+    background-color: rgb(211, 140, 7);
+    color: whitesmoke;
+  }
+  .c {
+    background-color: red;
+  }
+  .c:hover {
+    background-color: rgb(208, 25, 25);
+    color: whitesmoke;
+  }
+  .equal {
+    background-color: rgb(8, 181, 8);
+  }
+  .equal:hover {
+    background-color: rgb(11, 168, 11);
+    color: whitesmoke;
+  }
